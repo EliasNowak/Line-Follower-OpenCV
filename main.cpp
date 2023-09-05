@@ -4,12 +4,6 @@
 using namespace cv;
 using namespace std;
 
-
-
-
-
-
-
 int main()
 {
 	Mat frame, grayFrame, binarizedFrame, draw, erodeFrame, dilateFrame, canny_output;
